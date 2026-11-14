@@ -44,7 +44,7 @@ ahmed-portfolio/
 
 1. Clone the repository:
 
-git clone https://github.com/ahmed_web971/ahmed-portfolio.git
+git clone https://github.com/ahmed_web971/Developer-portfolio.git
 
 2. Open the project folder.
 
