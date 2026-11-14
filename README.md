@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing my web development sk
 
 🌐 Live Demo
 
-"🚀 View My Portfolio" (https://unique-nougat-ef481c.netlify.app/)
+"🚀 View My Portfolio" ( https://ahmed-web971.github.io/Developer-portfolio/)
 
 👨‍💻 About Me
 
@@ -38,7 +38,7 @@ ahmed-portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-└── assets/
+
 
 ⚙️ Run Locally
 
